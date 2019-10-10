@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_store_name" label="Store name" language="en" table="x_393109_shopping_1570650265589">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_store_name</element>
+            <help/>
+            <hint/>
+            <label>Store name</label>
+            <language>en</language>
+            <name>x_393109_shopping_1570650265589</name>
+            <plural>Store names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ddion</sys_created_by>
+            <sys_created_on>2019-10-09 19:44:27</sys_created_on>
+            <sys_id>6f5b47831b540010eb0bda49cc4bcb34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Store name</sys_name>
+            <sys_package display_value="Shopping List" source="x_393109_shopping">0bfa0f031b540010eb0bda49cc4bcbe7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">0bfa0f031b540010eb0bda49cc4bcbe7</sys_scope>
+            <sys_update_name>sys_documentation_x_393109_shopping_1570650265589_u_store_name_en</sys_update_name>
+            <sys_updated_by>ddion</sys_updated_by>
+            <sys_updated_on>2019-10-09 19:44:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
